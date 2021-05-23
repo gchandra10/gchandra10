@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gchandra" target="blank"><img align="center" src="images/twitter.png" alt="gchandra" height="32" width="23" /></a>
-<a href="https://linkedin.com/in/gchandra" target="blank"><img align="center" src="images/linkedin.png" alt="gchandra" height="32" width="32" /></a>
-<a href="https://stackoverflow.com/users/ganesh-chandrasekaran" target="blank"><img align="center" src="images/stackoverflow.png" alt="ganesh-chandrasekaran" height="32" width="32" /></a>
-<a href="https://medium.com/@gchandra" target="blank"><img align="center" src="images/medium.png" alt="@gchandra" height="32" width="32" /></a>
+<a href="https://twitter.com/gchandra" target="blank"><img align="center" src="images/twitter.png" alt="gchandra" height="32" width="23" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/gchandra" target="blank"><img align="center" src="images/linkedin.png" alt="gchandra" height="32" width="32" /></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/ganesh-chandrasekaran" target="blank"><img align="center" src="images/stackoverflow.png" alt="ganesh-chandrasekaran" height="32" width="32" /></a>&nbsp;&nbsp;
+<a href="https://medium.com/@gchandra" target="blank"><img align="center" src="images/medium.png" alt="@gchandra" height="32" width="32" /></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
