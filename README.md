@@ -11,6 +11,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Best way to handle NULL / Empty string in Scala](https://medium.com/analytics-vidhya/best-way-to-handle-null-empty-string-in-scala-d706c46edcac?source=rss-cb7a2de9f0fc------2)
+- [Simple tutorial for handling Date and Time in Scala (Apache Spark)](https://aws.plainenglish.io/simple-tutorial-for-handling-date-and-time-in-scala-apache-spark-481d1e49763d?source=rss-cb7a2de9f0fc------2)
+- [Send a message to Microsoft Teams via Databricks](https://medium.com/analytics-vidhya/send-a-message-to-microsoft-teams-via-databricks-84dd8ca06dc7?source=rss-cb7a2de9f0fc------2)
+- [Databricks Spark Session Use Case](https://aws.plainenglish.io/databricks-spark-session-use-case-10decde9ac77?source=rss-cb7a2de9f0fc------2)
+- [How to programmatically download Apache Spark generated file (part*) with a custom name?](https://medium.com/analytics-vidhya/how-to-programmatically-download-apache-spark-generated-file-part-with-a-custom-name-f25d437376e1?source=rss-cb7a2de9f0fc------2)
+- [Parse Nested JSON using JQ](https://medium.com/analytics-vidhya/parse-nested-json-using-jq-ae22b0e7f2db?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
