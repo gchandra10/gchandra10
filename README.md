@@ -11,12 +11,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon AWS S3 bucket & object best practices](https://gchandra.medium.com/amazon-aws-s3-bucket-object-best-practices-e224eb208c99?source=rss-cb7a2de9f0fc------2)
 - [dbeaver : Public Key Retrieval is not allowed](https://gchandra.medium.com/dbeaver-public-key-retrieval-is-not-allowed-77eba055bbcd?source=rss-cb7a2de9f0fc------2)
 - [DE&I — How it affects Software systems?](https://medium.com/analytics-vidhya/de-i-how-it-affects-software-systems-856eb42487be?source=rss-cb7a2de9f0fc------2)
 - [Best way to handle NULL / Empty string in Scala](https://medium.com/analytics-vidhya/best-way-to-handle-null-empty-string-in-scala-d706c46edcac?source=rss-cb7a2de9f0fc------2)
 - [Simple tutorial for handling Date and Time in Scala (Apache Spark)](https://aws.plainenglish.io/simple-tutorial-for-handling-date-and-time-in-scala-apache-spark-481d1e49763d?source=rss-cb7a2de9f0fc------2)
 - [Send a message to Microsoft Teams via Databricks](https://medium.com/analytics-vidhya/send-a-message-to-microsoft-teams-via-databricks-84dd8ca06dc7?source=rss-cb7a2de9f0fc------2)
-- [Databricks Spark Session Use Case](https://aws.plainenglish.io/databricks-spark-session-use-case-10decde9ac77?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
