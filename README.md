@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Agile -Simple introduction](https://gchandra.medium.com/agile-simple-introduction-c18abc6b7f2a?source=rss-cb7a2de9f0fc------2)
+- [Agile -Simple introduction](https://medium.com/analytics-vidhya/agile-simple-introduction-c18abc6b7f2a?source=rss-cb7a2de9f0fc------2)
 - [Quick overview of Apache Spark & Databricks](https://medium.com/analytics-vidhya/quick-overview-of-apache-spark-databricks-722dfbfdbe8?source=rss-cb7a2de9f0fc------2)
 - [Amazon AWS S3 bucket & object best practices](https://gchandra.medium.com/amazon-aws-s3-bucket-object-best-practices-e224eb208c99?source=rss-cb7a2de9f0fc------2)
 - [dbeaver : Public Key Retrieval is not allowed](https://gchandra.medium.com/dbeaver-public-key-retrieval-is-not-allowed-77eba055bbcd?source=rss-cb7a2de9f0fc------2)
