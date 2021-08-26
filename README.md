@@ -11,12 +11,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it still good to learn Apache Hive?](https://gchandra.medium.com/is-it-still-good-to-learn-apache-hive-2c9eb37db85c?source=rss-cb7a2de9f0fc------2)
 - [Quick Overview of AWS Athena -Tableau](https://gchandra.medium.com/quick-overview-of-aws-athena-tableau-67fb77149979?source=rss-cb7a2de9f0fc------2)
 - [Agile -Simple introduction](https://medium.com/analytics-vidhya/agile-simple-introduction-c18abc6b7f2a?source=rss-cb7a2de9f0fc------2)
 - [Quick overview of Apache Spark & Databricks](https://medium.com/analytics-vidhya/quick-overview-of-apache-spark-databricks-722dfbfdbe8?source=rss-cb7a2de9f0fc------2)
 - [Amazon AWS S3 bucket & object best practices](https://gchandra.medium.com/amazon-aws-s3-bucket-object-best-practices-e224eb208c99?source=rss-cb7a2de9f0fc------2)
 - [dbeaver : Public Key Retrieval is not allowed](https://gchandra.medium.com/dbeaver-public-key-retrieval-is-not-allowed-77eba055bbcd?source=rss-cb7a2de9f0fc------2)
-- [DE&I — How it affects Software systems?](https://medium.com/analytics-vidhya/de-i-how-it-affects-software-systems-856eb42487be?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
