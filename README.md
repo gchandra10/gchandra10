@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to load a CSV with newline characters using Apache Spark &amp; Databricks](https://python.plainenglish.io/how-to-load-a-csv-with-newline-characters-using-apache-spark-databricks-c9dca772eac7?source=rss-cb7a2de9f0fc------2)
+- [How to Load a CSV to a Dataframe with Newline Characters Using Apache Spark and Databricks](https://python.plainenglish.io/how-to-load-a-csv-with-newline-characters-using-apache-spark-databricks-c9dca772eac7?source=rss-cb7a2de9f0fc------2)
 - [How to Handle Bad Data in Spark SQL](https://python.plainenglish.io/how-to-handle-bad-data-in-spark-sql-5e0276d37ca1?source=rss-cb7a2de9f0fc------2)
 - [Convert String to Date in Spark using Azure Databricks](https://aws.plainenglish.io/convert-string-to-date-in-spark-using-databricks-ba99014facb8?source=rss-cb7a2de9f0fc------2)
 - [Databricks Delta Table: A Simple Tutorial](https://aws.plainenglish.io/databricks-delta-table-simple-tutorial-8e6b3b64e392?source=rss-cb7a2de9f0fc------2)
