@@ -21,11 +21,11 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [AWS Athena - Partition Projection not returning any results](https://stackoverflow.com/questions/70245940/aws-athena-partition-projection-not-returning-any-results)
 - [Answer by Ganesh Chandrasekaran for How to create and configure a linked server to connect to MySQL in SQL Server Management Studio](https://stackoverflow.com/questions/62023463/how-to-create-and-configure-a-linked-server-to-connect-to-mysql-in-sql-server-ma/62023994#62023994)
 - [Answer by Ganesh Chandrasekaran for Unable to perform New Database connection to `Dbeaver`, throws `Unable to load authentication plugin](https://stackoverflow.com/questions/61994853/unable-to-perform-new-database-connection-to-dbeaver-throws-unable-to-load-a/61995069#61995069)
 - [Answer by Ganesh Chandrasekaran for Wordpress redirect to login page if ip is different](https://stackoverflow.com/questions/61972657/wordpress-redirect-to-login-page-if-ip-is-different/61972799#61972799)
 - [Answer by Ganesh Chandrasekaran for Downloading PostgreSQL on Mac](https://stackoverflow.com/questions/61972681/downloading-postgresql-on-mac/61972755#61972755)
-- [Answer by Ganesh Chandrasekaran for hive equivalent of group concatenation](https://stackoverflow.com/questions/61964775/hive-equivalent-of-group-concatenation/61966930#61966930)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
