@@ -12,7 +12,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Know your data - using Databricks Data Profile](https://medium.com/analytics-vidhya/know-your-data-using-databricks-data-profile-1c7b1fae4a4?source=rss-cb7a2de9f0fc------2)
-- [Convert or Query Parquet files without Bigdata tool&lpar;s&rpar;](https://medium.com/analytics-vidhya/convert-or-query-parquet-files-without-bigdata-tool-s-6d58132b99a7?source=rss-cb7a2de9f0fc------2)
+- [Convert or Query Parquet files without Bigdata tool&lpar;s&rpar;](https://medium.datadriveninvestor.com/convert-or-query-parquet-files-without-bigdata-tool-s-6d58132b99a7?source=rss-cb7a2de9f0fc------2)
 - [Databricks — Photon Engine](https://gchandra.medium.com/databricks-photon-engine-78f0ad64d117?source=rss-cb7a2de9f0fc------2)
 - [How to Load a CSV to a Dataframe with Newline Characters Using Apache Spark and Databricks](https://python.plainenglish.io/how-to-load-a-csv-with-newline-characters-using-apache-spark-databricks-c9dca772eac7?source=rss-cb7a2de9f0fc------2)
 - [How to Handle Bad Data in Spark SQL](https://python.plainenglish.io/how-to-handle-bad-data-in-spark-sql-5e0276d37ca1?source=rss-cb7a2de9f0fc------2)
