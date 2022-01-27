@@ -11,12 +11,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Query Databricks Lakehouse database using Native Python](https://python.plainenglish.io/query-databricks-lakehouse-database-using-native-python-99e45af587bc?source=rss-cb7a2de9f0fc------2)
 - [How to install Databricks CLI and get the path of Databricks Executable on Windows?](https://gchandra.medium.com/how-to-install-databricks-cli-and-get-the-path-of-databricks-executable-on-windows-74f83040dde7?source=rss-cb7a2de9f0fc------2)
 - [Query Microsoft Active Directory using SQL Server](https://medium.datadriveninvestor.com/query-microsoft-active-directory-using-sql-server-739dc6888c14?source=rss-cb7a2de9f0fc------2)
 - [Know your data - using Databricks Data Profile](https://medium.datadriveninvestor.com/know-your-data-using-databricks-data-profile-1c7b1fae4a4?source=rss-cb7a2de9f0fc------2)
 - [Convert or Query Parquet files without Bigdata tool&lpar;s&rpar;](https://medium.datadriveninvestor.com/convert-or-query-parquet-files-without-bigdata-tool-s-6d58132b99a7?source=rss-cb7a2de9f0fc------2)
 - [Databricks — Photon Engine](https://gchandra.medium.com/databricks-photon-engine-78f0ad64d117?source=rss-cb7a2de9f0fc------2)
-- [How to Load a CSV to a Dataframe with Newline Characters Using Apache Spark and Databricks](https://python.plainenglish.io/how-to-load-a-csv-with-newline-characters-using-apache-spark-databricks-c9dca772eac7?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
