@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Query Databricks Lakehouse database using Native Python](https://python.plainenglish.io/query-databricks-lakehouse-database-using-native-python-99e45af587bc?source=rss-cb7a2de9f0fc------2)
+- [Query Databricks Lakehouse database using Native Python](https://medium.datadriveninvestor.com/query-databricks-lakehouse-database-using-native-python-99e45af587bc?source=rss-cb7a2de9f0fc------2)
 - [How to install Databricks CLI and get the path of Databricks Executable on Windows?](https://gchandra.medium.com/how-to-install-databricks-cli-and-get-the-path-of-databricks-executable-on-windows-74f83040dde7?source=rss-cb7a2de9f0fc------2)
 - [Query Microsoft Active Directory using SQL Server](https://medium.datadriveninvestor.com/query-microsoft-active-directory-using-sql-server-739dc6888c14?source=rss-cb7a2de9f0fc------2)
 - [Know your data - using Databricks Data Profile](https://medium.datadriveninvestor.com/know-your-data-using-databricks-data-profile-1c7b1fae4a4?source=rss-cb7a2de9f0fc------2)
