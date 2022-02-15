@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Why is Databricks Delta table &amp; AWS Athena are not a good combo?](https://medium.datadriveninvestor.com/why-is-databricks-delta-table-aws-athena-are-not-a-good-combo-aaf1138b3d56?source=rss-cb7a2de9f0fc------2)
+- [Why is Databricks Delta table &amp; AWS Athena is not a good combo?](https://medium.datadriveninvestor.com/why-is-databricks-delta-table-aws-athena-are-not-a-good-combo-aaf1138b3d56?source=rss-cb7a2de9f0fc------2)
 - [How to create a Spark data frame from a pre-signed S3 URL? : Data Engineering Series](https://medium.datadriveninvestor.com/how-to-create-a-spark-data-frame-from-a-pre-signed-s3-url-data-engineering-series-bbc7a067170d?source=rss-cb7a2de9f0fc------2)
 - [How to Install RUST on Ubuntu 21.10](https://gchandra.medium.com/how-to-install-rust-on-ubuntu-21-10-ddc2abe4abfb?source=rss-cb7a2de9f0fc------2)
 - [Filling NULL values with next available data in Spark SQL — Data Engineering Series](https://medium.datadriveninvestor.com/filling-null-values-with-next-available-data-in-spark-sql-data-engineering-series-8a306ff0a65d?source=rss-cb7a2de9f0fc------2)
