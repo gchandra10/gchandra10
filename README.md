@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to unit test PySpark programs in Databricks notebook?](https://gchandra.medium.com/how-to-unit-test-pyspark-programs-in-databricks-notebook-c148ec060348?source=rss-cb7a2de9f0fc------2)
+- [How to unit test PySpark programs in Databricks notebook?](https://medium.com/analytics-vidhya/how-to-unit-test-pyspark-programs-in-databricks-notebook-c148ec060348?source=rss-cb7a2de9f0fc------2)
 - [Apache Spark: How to Convert ISO 8601 format to standard date-time format](https://gchandra.medium.com/apache-spark-how-to-convert-iso-8601-format-to-standard-date-time-format-7354ab6e15e7?source=rss-cb7a2de9f0fc------2)
 - [Rust Programming: Why print! is used instead of print?](https://gchandra.medium.com/rust-programming-why-print-is-used-instead-of-print-1a552f2e7239?source=rss-cb7a2de9f0fc------2)
 - [Why is Databricks Delta table &amp; AWS Athena is not a good combo?](https://medium.datadriveninvestor.com/why-is-databricks-delta-table-aws-athena-are-not-a-good-combo-aaf1138b3d56?source=rss-cb7a2de9f0fc------2)
