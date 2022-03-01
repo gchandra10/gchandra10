@@ -11,12 +11,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache Spark: How to Convert ISO 8601 format to standard date-time format](https://gchandra.medium.com/apache-spark-how-to-convert-iso-8601-format-to-standard-date-time-format-7354ab6e15e7?source=rss-cb7a2de9f0fc------2)
 - [Rust Programming: Why print! is used instead of print?](https://gchandra.medium.com/rust-programming-why-print-is-used-instead-of-print-1a552f2e7239?source=rss-cb7a2de9f0fc------2)
 - [Why is Databricks Delta table &amp; AWS Athena is not a good combo?](https://medium.datadriveninvestor.com/why-is-databricks-delta-table-aws-athena-are-not-a-good-combo-aaf1138b3d56?source=rss-cb7a2de9f0fc------2)
 - [How to create a Spark data frame from a pre-signed S3 URL? : Data Engineering Series](https://medium.datadriveninvestor.com/how-to-create-a-spark-data-frame-from-a-pre-signed-s3-url-data-engineering-series-bbc7a067170d?source=rss-cb7a2de9f0fc------2)
 - [How to Install RUST on Ubuntu 21.10](https://gchandra.medium.com/how-to-install-rust-on-ubuntu-21-10-ddc2abe4abfb?source=rss-cb7a2de9f0fc------2)
 - [Filling NULL values with next available data in Spark SQL — Data Engineering Series](https://medium.datadriveninvestor.com/filling-null-values-with-next-available-data-in-spark-sql-data-engineering-series-8a306ff0a65d?source=rss-cb7a2de9f0fc------2)
-- [Query Databricks Lakehouse database using Native Python](https://medium.datadriveninvestor.com/query-databricks-lakehouse-database-using-native-python-99e45af587bc?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
