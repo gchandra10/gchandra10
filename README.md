@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Create an Admin IAM user in AWS](https://aws.plainenglish.io/create-an-admin-iam-user-in-aws-7f98a41dbab3?source=rss-cb7a2de9f0fc------2)
+- [Create an Admin IAM user in AWS](https://gchandra.medium.com/create-an-admin-iam-user-in-aws-7f98a41dbab3?source=rss-cb7a2de9f0fc------2)
 - [Spark: Databricks: How to get the current notebook path?](https://gchandra.medium.com/spark-databricks-how-to-get-the-current-notebook-path-b438fab96aee?source=rss-cb7a2de9f0fc------2)
 - [Databricks Spark SQL: How to Exclude columns from your select statement?](https://medium.com/analytics-vidhya/databricks-spark-sql-how-to-exclude-columns-from-your-select-statement-af32070b2695?source=rss-cb7a2de9f0fc------2)
 - [How to unit test PySpark programs in Databricks notebook?](https://gchandra.medium.com/how-to-unit-test-pyspark-programs-in-databricks-notebook-c148ec060348?source=rss-cb7a2de9f0fc------2)
