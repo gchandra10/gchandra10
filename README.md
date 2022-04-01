@@ -11,12 +11,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks: String to Date conversion without changing to Legacy Parser](https://gchandra.medium.com/databricks-string-to-date-conversion-without-changing-to-legacy-parser-239d6e28a86e?source=rss-cb7a2de9f0fc------2)
 - [Databricks: What happens when you Truncate an External Delta table?](https://medium.datadriveninvestor.com/databricks-what-happens-when-you-truncate-an-external-delta-table-d364645f2b50?source=rss-cb7a2de9f0fc------2)
 - [How to download a file from Databricks filestore to a local machine?](https://medium.datadriveninvestor.com/how-to-download-a-file-from-databricks-filestore-to-a-local-machine-ae0c40f164f5?source=rss-cb7a2de9f0fc------2)
 - [Create an Admin IAM user in AWS](https://gchandra.medium.com/create-an-admin-iam-user-in-aws-7f98a41dbab3?source=rss-cb7a2de9f0fc------2)
 - [Spark: Databricks: How to get the current notebook path?](https://gchandra.medium.com/spark-databricks-how-to-get-the-current-notebook-path-b438fab96aee?source=rss-cb7a2de9f0fc------2)
 - [Databricks Spark SQL: How to Exclude columns from your select statement?](https://medium.com/analytics-vidhya/databricks-spark-sql-how-to-exclude-columns-from-your-select-statement-af32070b2695?source=rss-cb7a2de9f0fc------2)
-- [How to unit test PySpark programs in Databricks notebook?](https://gchandra.medium.com/how-to-unit-test-pyspark-programs-in-databricks-notebook-c148ec060348?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
