@@ -11,12 +11,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Don’t let Spark Optimizer decide everything](https://gchandra.medium.com/dont-let-spark-optimizer-decide-everything-d21507ed6be7?source=rss-cb7a2de9f0fc------2)
 - [Databricks: How to identify skew in your data?](https://gchandra.medium.com/databricks-how-to-identify-skew-in-your-data-6d82ed968014?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Name your queries](https://gchandra.medium.com/databricks-name-your-queries-fcfffc3e8c1b?source=rss-cb7a2de9f0fc------2)
 - [Azure MySQL — Error Code: 1419](https://gchandra.medium.com/azure-mysql-error-code-1419-fc8a47650b80?source=rss-cb7a2de9f0fc------2)
 - [Databricks: String to Date conversion without changing to Legacy Parser](https://gchandra.medium.com/databricks-string-to-date-conversion-without-changing-to-legacy-parser-239d6e28a86e?source=rss-cb7a2de9f0fc------2)
 - [Databricks: What happens when you Truncate an External Delta table?](https://medium.datadriveninvestor.com/databricks-what-happens-when-you-truncate-an-external-delta-table-d364645f2b50?source=rss-cb7a2de9f0fc------2)
-- [How to download a file from Databricks filestore to a local machine?](https://medium.datadriveninvestor.com/how-to-download-a-file-from-databricks-filestore-to-a-local-machine-ae0c40f164f5?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
