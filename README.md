@@ -11,12 +11,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks Photon + AWS Graviton2 = Performance](https://aws.plainenglish.io/databricks-photon-aws-graviton2-performance-1701cd90c7?source=rss-cb7a2de9f0fc------2)
 - [Spark SQL: Different ways to use Describe statement](https://gchandra.medium.com/spark-sql-different-ways-to-use-describe-statement-3c0752cea89f?source=rss-cb7a2de9f0fc------2)
 - [Don’t let Spark Optimizer decide everything](https://medium.datadriveninvestor.com/dont-let-spark-optimizer-decide-everything-d21507ed6be7?source=rss-cb7a2de9f0fc------2)
 - [Databricks: How to identify skew in your data?](https://medium.datadriveninvestor.com/databricks-how-to-identify-skew-in-your-data-6d82ed968014?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Name your queries](https://medium.datadriveninvestor.com/databricks-name-your-queries-fcfffc3e8c1b?source=rss-cb7a2de9f0fc------2)
 - [Azure MySQL — Error Code: 1419](https://gchandra.medium.com/azure-mysql-error-code-1419-fc8a47650b80?source=rss-cb7a2de9f0fc------2)
-- [Databricks: String to Date conversion without changing to Legacy Parser](https://gchandra.medium.com/databricks-string-to-date-conversion-without-changing-to-legacy-parser-239d6e28a86e?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
