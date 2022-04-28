@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [http://ganeshchandrasekaran.com](http://ganeshchandrasekaran.com)
 
-- 💬 Ask me about **Databases, BigData**
+- 💬 Ask me about **Laskehouse, Databricks, Delta, Spark, Databases**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
