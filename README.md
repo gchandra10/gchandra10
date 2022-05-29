@@ -21,11 +21,11 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Ganesh Chandrasekaran for SQL parameters in Databricks](https://stackoverflow.com/questions/72407256/sql-parameters-in-databricks/72424201#72424201)
 - [Answer by Ganesh Chandrasekaran for Passing Context information to task in DataBricks Workflows](https://stackoverflow.com/questions/72287357/passing-context-information-to-task-in-databricks-workflows/72289132#72289132)
 - [Answer by Ganesh Chandrasekaran for Databricks SQL doesn&#39;t support DECLARE keyword](https://stackoverflow.com/questions/72262612/databricks-sql-doesnt-support-declare-keyword/72282877#72282877)
 - [AWS Athena - Partition Projection not returning any results](https://stackoverflow.com/questions/70245940/aws-athena-partition-projection-not-returning-any-results)
 - [Answer by Ganesh Chandrasekaran for How to create and configure a linked server to connect to MySQL in SQL Server Management Studio](https://stackoverflow.com/questions/62023463/how-to-create-and-configure-a-linked-server-to-connect-to-mysql-in-sql-server-ma/62023994#62023994)
-- [Answer by Ganesh Chandrasekaran for Unable to perform New Database connection to `Dbeaver`, throws `Unable to load authentication plugin](https://stackoverflow.com/questions/61994853/unable-to-perform-new-database-connection-to-dbeaver-throws-unable-to-load-a/61995069#61995069)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
