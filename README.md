@@ -21,11 +21,11 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Ganesh Chandrasekaran for Directly query and validate in Databricks or transform to db for faster query](https://stackoverflow.com/questions/72422119/directly-query-and-validate-in-databricks-or-transform-to-db-for-faster-query/72424750#72424750)
+- [Answer by Ganesh Chandrasekaran for Update task status from external application in Databricks](https://stackoverflow.com/questions/72399972/update-task-status-from-external-application-in-databricks/72424664#72424664)
 - [Answer by Ganesh Chandrasekaran for SQL parameters in Databricks](https://stackoverflow.com/questions/72407256/sql-parameters-in-databricks/72424201#72424201)
 - [Answer by Ganesh Chandrasekaran for Passing Context information to task in DataBricks Workflows](https://stackoverflow.com/questions/72287357/passing-context-information-to-task-in-databricks-workflows/72289132#72289132)
 - [Answer by Ganesh Chandrasekaran for Databricks SQL doesn&#39;t support DECLARE keyword](https://stackoverflow.com/questions/72262612/databricks-sql-doesnt-support-declare-keyword/72282877#72282877)
-- [AWS Athena - Partition Projection not returning any results](https://stackoverflow.com/questions/70245940/aws-athena-partition-projection-not-returning-any-results)
-- [Answer by Ganesh Chandrasekaran for How to create and configure a linked server to connect to MySQL in SQL Server Management Studio](https://stackoverflow.com/questions/62023463/how-to-create-and-configure-a-linked-server-to-connect-to-mysql-in-sql-server-ma/62023994#62023994)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
