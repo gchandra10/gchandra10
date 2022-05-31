@@ -21,11 +21,11 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Ganesh Chandrasekaran for Databricks autocomplete configuration](https://stackoverflow.com/questions/72443452/databricks-autocomplete-configuration/72447427#72447427)
 - [Answer by Ganesh Chandrasekaran for Last few tasks in spark job are running very slow](https://stackoverflow.com/questions/72383072/last-few-tasks-in-spark-job-are-running-very-slow/72427573#72427573)
 - [Answer by Ganesh Chandrasekaran for DataBricks: Any way to reset the Generated IDENTITY column?](https://stackoverflow.com/questions/72400397/databricks-any-way-to-reset-the-generated-identity-column/72426799#72426799)
 - [Answer by Ganesh Chandrasekaran for Directly query and validate in Databricks or transform to db for faster query](https://stackoverflow.com/questions/72422119/directly-query-and-validate-in-databricks-or-transform-to-db-for-faster-query/72424750#72424750)
 - [Answer by Ganesh Chandrasekaran for Update task status from external application in Databricks](https://stackoverflow.com/questions/72399972/update-task-status-from-external-application-in-databricks/72424664#72424664)
-- [Answer by Ganesh Chandrasekaran for SQL parameters in Databricks](https://stackoverflow.com/questions/72407256/sql-parameters-in-databricks/72424201#72424201)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
