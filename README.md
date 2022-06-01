@@ -21,11 +21,11 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Ganesh Chandrasekaran for data bricks: spark cluster AttributeError: &#39;DataFrame&#39; object has no attribute &#39;copy&#39;](https://stackoverflow.com/questions/72461606/data-bricks-spark-cluster-attributeerror-dataframe-object-has-no-attribute/72463268#72463268)
 - [Answer by Ganesh Chandrasekaran for Importing notebook from Databricks into PowerBI](https://stackoverflow.com/questions/72461214/importing-notebook-from-databricks-into-powerbi/72462361#72462361)
 - [Answer by Ganesh Chandrasekaran for Databricks: how to get the data behind the workflow information page exported](https://stackoverflow.com/questions/72448494/databricks-how-to-get-the-data-behind-the-workflow-information-page-exported/72454659#72454659)
 - [Answer by Ganesh Chandrasekaran for DataBricks: Any way to reset the Generated IDENTITY column?](https://stackoverflow.com/questions/72400397/databricks-any-way-to-reset-the-generated-identity-column/72449703#72449703)
 - [Answer by Ganesh Chandrasekaran for Databricks autocomplete configuration](https://stackoverflow.com/questions/72443452/databricks-autocomplete-configuration/72447427#72447427)
-- [Answer by Ganesh Chandrasekaran for Last few tasks in spark job are running very slow](https://stackoverflow.com/questions/72383072/last-few-tasks-in-spark-job-are-running-very-slow/72427573#72427573)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
