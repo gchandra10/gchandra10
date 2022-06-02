@@ -11,12 +11,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks Delta: How to reset Generated Identity column?](https://gchandra.medium.com/databricks-delta-how-to-reset-generated-identity-column-a862079d36fd?source=rss-cb7a2de9f0fc------2)
 - [Databricks Spark: How to pass value from Python/Scala to Spark SQL](https://gchandra.medium.com/databricks-spark-how-to-pass-value-from-python-scala-to-spark-sql-dc7918281e98?source=rss-cb7a2de9f0fc------2)
 - [How to prepare for the Databricks Certified Data Engineer Associate exam](https://gchandra.medium.com/how-to-prepare-for-the-databricks-certified-data-engineer-associate-exam-75e7055a162d?source=rss-cb7a2de9f0fc------2)
 - [Spark: Get a list of all Tables from all the Databases using Scala](https://gchandra.medium.com/spark-get-a-list-of-all-tables-from-all-the-databases-using-scala-a804096b5b81?source=rss-cb7a2de9f0fc------2)
 - [Databricks dbx CLI: deploy the spark JAR using YAML](https://gchandra.medium.com/databricks-dbx-cli-deploy-the-spark-jar-using-yaml-3c21d88c1115?source=rss-cb7a2de9f0fc------2)
 - [Spark: How to parse a text file containing Array data](https://medium.datadriveninvestor.com/spark-how-to-parse-a-text-file-containing-array-data-de4e80195ce3?source=rss-cb7a2de9f0fc------2)
-- [Databricks Photon + AWS Graviton2 = Performance](https://aws.plainenglish.io/databricks-photon-aws-graviton2-performance-1701cd90c7?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
