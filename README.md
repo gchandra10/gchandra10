@@ -21,11 +21,11 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Ganesh Chandrasekaran for Databricks Delta Update](https://stackoverflow.com/questions/52165272/databricks-delta-update/72602889#72602889)
 - [Answer by Ganesh Chandrasekaran for ERROR 1064 &lpar;42000&rpar;: check the manual that corresponds to your MySQL server version for the right syntax to use near &#39;IDENTIFIED BY &quot;stormwind_rules&quot;&#39;](https://stackoverflow.com/questions/72475598/error-1064-42000-check-the-manual-that-corresponds-to-your-mysql-server-versi/72475866#72475866)
 - [Answer by Ganesh Chandrasekaran for How to get access of some graphs /plots in Databricks workflow?](https://stackoverflow.com/questions/72461315/how-to-get-access-of-some-graphs-plots-in-databricks-workflow/72468884#72468884)
 - [Answer by Ganesh Chandrasekaran for How to validate only specific schema from a dataframe](https://stackoverflow.com/questions/72467754/how-to-validate-only-specific-schema-from-a-dataframe/72468817#72468817)
 - [Answer by Ganesh Chandrasekaran for data bricks: spark cluster AttributeError: &#39;DataFrame&#39; object has no attribute &#39;copy&#39;](https://stackoverflow.com/questions/72461606/data-bricks-spark-cluster-attributeerror-dataframe-object-has-no-attribute/72463268#72463268)
-- [Answer by Ganesh Chandrasekaran for Importing notebook from Databricks into PowerBI](https://stackoverflow.com/questions/72461214/importing-notebook-from-databricks-into-powerbi/72462361#72462361)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
