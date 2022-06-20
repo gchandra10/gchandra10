@@ -21,11 +21,11 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Ganesh Chandrasekaran for Looping Through Dates in SQL? &lpar;Databricks&rpar;](https://stackoverflow.com/questions/72665614/looping-through-dates-in-sql-databricks/72693749#72693749)
 - [Answer by Ganesh Chandrasekaran for Different Methods for Creating EXTERNAL TABLES Using Spark SQL in Databricks](https://stackoverflow.com/questions/72670995/different-methods-for-creating-external-tables-using-spark-sql-in-databricks/72693159#72693159)
 - [Answer by Ganesh Chandrasekaran for Converting Scala Databricks Notebook to Python](https://stackoverflow.com/questions/72645339/converting-scala-databricks-notebook-to-python/72653825#72653825)
 - [Answer by Ganesh Chandrasekaran for Databricks Delta Update](https://stackoverflow.com/questions/52165272/databricks-delta-update/72602889#72602889)
 - [Answer by Ganesh Chandrasekaran for ERROR 1064 &lpar;42000&rpar;: check the manual that corresponds to your MySQL server version for the right syntax to use near &#39;IDENTIFIED BY &quot;stormwind_rules&quot;&#39;](https://stackoverflow.com/questions/72475598/error-1064-42000-check-the-manual-that-corresponds-to-your-mysql-server-versi/72475866#72475866)
-- [Answer by Ganesh Chandrasekaran for How to get access of some graphs /plots in Databricks workflow?](https://stackoverflow.com/questions/72461315/how-to-get-access-of-some-graphs-plots-in-databricks-workflow/72468884#72468884)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
