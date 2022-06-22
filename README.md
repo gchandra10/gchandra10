@@ -21,11 +21,11 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Ganesh Chandrasekaran for how can I use foreachbatch to report microbatch size](https://stackoverflow.com/questions/72708710/how-can-i-use-foreachbatch-to-report-microbatch-size/72709099#72709099)
 - [Answer by Ganesh Chandrasekaran for Install Command Line Interface in my machine](https://stackoverflow.com/questions/72705891/install-command-line-interface-in-my-machine/72708665#72708665)
 - [Answer by Ganesh Chandrasekaran for Looping Through Dates in SQL? &lpar;Databricks&rpar;](https://stackoverflow.com/questions/72665614/looping-through-dates-in-sql-databricks/72693749#72693749)
 - [Answer by Ganesh Chandrasekaran for Different Methods for Creating EXTERNAL TABLES Using Spark SQL in Databricks](https://stackoverflow.com/questions/72670995/different-methods-for-creating-external-tables-using-spark-sql-in-databricks/72693159#72693159)
 - [Answer by Ganesh Chandrasekaran for Converting Scala Databricks Notebook to Python](https://stackoverflow.com/questions/72645339/converting-scala-databricks-notebook-to-python/72653825#72653825)
-- [Answer by Ganesh Chandrasekaran for Databricks Delta Update](https://stackoverflow.com/questions/52165272/databricks-delta-update/72602889#72602889)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
