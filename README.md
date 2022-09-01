@@ -11,12 +11,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks: How to read specific Parquet files from a given folder without errors](https://gchandra.medium.com/databricks-how-to-read-specific-parquet-files-from-a-given-folder-without-errors-e4d9cb224ac9?source=rss-cb7a2de9f0fc------2)
+- [Databricks: Error — AWS S3 part number must be between 1 and 10000 inclusive](https://gchandra.medium.com/databricks-error-aws-s3-part-number-must-be-between-1-and-10000-inclusive-cfa398fcb91f?source=rss-cb7a2de9f0fc------2)
 - [Error in SQL statement: AnalysisException: Correlated column is not allowed in predicate](https://gchandra.medium.com/error-in-sql-statement-analysisexception-correlated-column-is-not-allowed-in-predicate-62142ec0f5cd?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Get a list of all the Mounted object storage location](https://gchandra.medium.com/databricks-get-a-list-of-all-the-mounted-object-storage-location-80414f221d53?source=rss-cb7a2de9f0fc------2)
 - [Databricks: How to launch Spark UI from Databricks SQL &lpar;DB SQL&rpar;](https://gchandra.medium.com/databricks-how-to-launch-spark-ui-from-databricks-sql-db-sql-fc85cc956250?source=rss-cb7a2de9f0fc------2)
 - [Databricks:Scala -How to access configuration files using Typesafe Config](https://gchandra.medium.com/databricks-scala-how-to-access-configuration-files-using-typesafe-config-5e1f86e33db6?source=rss-cb7a2de9f0fc------2)
-- [Databricks Delta: How to reset Generated Identity column?](https://gchandra.medium.com/databricks-delta-how-to-reset-generated-identity-column-a862079d36fd?source=rss-cb7a2de9f0fc------2)
-- [Databricks Spark: How to pass value from Python/Scala to Spark SQL](https://gchandra.medium.com/databricks-spark-how-to-pass-value-from-python-scala-to-spark-sql-dc7918281e98?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
