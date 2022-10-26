@@ -11,12 +11,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks Cluster vs SQL Warehouses](https://medium.com/analytics-vidhya/databricks-cluster-vs-sql-warehouses-c0c159287dd7?source=rss-cb7a2de9f0fc------2)
 - [Video Post: How to download JSON data from REST API using Databricks](https://gchandra.medium.com/video-post-how-to-download-json-data-from-rest-api-using-databricks-a37bebeab87a?source=rss-cb7a2de9f0fc------2)
 - [Databricks: How to split a string using Spark SQL](https://gchandra.medium.com/databricks-how-to-split-a-string-using-spark-sql-ada34ec2de82?source=rss-cb7a2de9f0fc------2)
 - [Video Post: How to parse a JSON file using Databricks Spark SQL](https://gchandra.medium.com/video-post-how-to-parse-a-json-file-using-databricks-spark-sql-58b72d061dae?source=rss-cb7a2de9f0fc------2)
 - [Rust error — linking with cc failed.](https://medium.com/your-tech-done-better/rust-error-linking-with-cc-failed-ac6a20054bc4?source=rss-cb7a2de9f0fc------2)
 - [Install RUST on Windows &amp; MAC](https://gchandra.medium.com/install-rust-on-windows-mac-871c6bdd73ef?source=rss-cb7a2de9f0fc------2)
-- [Databricks: How to read specific Parquet files from a given folder without errors](https://gchandra.medium.com/databricks-how-to-read-specific-parquet-files-from-a-given-folder-without-errors-e4d9cb224ac9?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
