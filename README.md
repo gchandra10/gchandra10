@@ -11,12 +11,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust: How values are stored in Heap &amp; Stack](https://gchandra.medium.com/rust-how-values-are-stored-in-heap-stack-21bdcc07cc43?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Pivot JSON columns to rows using PySpark](https://gchandra.medium.com/databricks-pivot-json-columns-to-rows-using-pyspark-baed9c0aea8a?source=rss-cb7a2de9f0fc------2)
 - [Databricks Cluster vs SQL Warehouses](https://medium.com/analytics-vidhya/databricks-cluster-vs-sql-warehouses-c0c159287dd7?source=rss-cb7a2de9f0fc------2)
 - [Video Post: How to download JSON data from REST API using Databricks](https://gchandra.medium.com/video-post-how-to-download-json-data-from-rest-api-using-databricks-a37bebeab87a?source=rss-cb7a2de9f0fc------2)
 - [Databricks: How to split a string using Spark SQL](https://gchandra.medium.com/databricks-how-to-split-a-string-using-spark-sql-ada34ec2de82?source=rss-cb7a2de9f0fc------2)
 - [Video Post: How to parse a JSON file using Databricks Spark SQL](https://gchandra.medium.com/video-post-how-to-parse-a-json-file-using-databricks-spark-sql-58b72d061dae?source=rss-cb7a2de9f0fc------2)
-- [Rust error — linking with cc failed.](https://medium.com/your-tech-done-better/rust-error-linking-with-cc-failed-ac6a20054bc4?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
