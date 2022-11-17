@@ -11,12 +11,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to save the spark data frame as an external table in Databricks?](https://gchandra.medium.com/how-to-save-the-spark-data-frame-as-an-external-table-in-databricks-6e7ce0ab12cc?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Best practice for dropping a managed Delta Lake table.](https://gchandra.medium.com/databricks-best-practice-for-dropping-a-managed-delta-lake-table-e3e001323f71?source=rss-cb7a2de9f0fc------2)
 - [Rust: How values are stored in Heap &amp; Stack](https://gchandra.medium.com/rust-how-values-are-stored-in-heap-stack-21bdcc07cc43?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Pivot JSON columns to rows using PySpark](https://gchandra.medium.com/databricks-pivot-json-columns-to-rows-using-pyspark-baed9c0aea8a?source=rss-cb7a2de9f0fc------2)
 - [Databricks Cluster vs SQL Warehouses](https://medium.com/analytics-vidhya/databricks-cluster-vs-sql-warehouses-c0c159287dd7?source=rss-cb7a2de9f0fc------2)
 - [Video Post: How to download JSON data from REST API using Databricks](https://gchandra.medium.com/video-post-how-to-download-json-data-from-rest-api-using-databricks-a37bebeab87a?source=rss-cb7a2de9f0fc------2)
-- [Databricks: How to split a string using Spark SQL](https://gchandra.medium.com/databricks-how-to-split-a-string-using-spark-sql-ada34ec2de82?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
