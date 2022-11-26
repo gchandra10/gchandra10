@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh Chandrasekaran</h1>
-<h3 align="center">Specialist Solution Architect @ Databricks | Adjunct Professor @ Rowan University | Volunteer @ Tech Girlz. Love Technology and Teaching.</h3>
+<h3 align="center">Big Data Solution Architect | Adjunct Professor | Mentor | Volunteer @ Tech Girlz and a Technology enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gchandra10&label=Profile%20views&color=0e75b6&style=flat" alt="gchandra10" /> </p>
 
