@@ -11,12 +11,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Data Mesh using Databricks Lakehouse](https://gchandra.medium.com/understanding-data-mesh-using-databricks-lakehouse-62c924083c52?source=rss-cb7a2de9f0fc------2)
 - [Run your Databricks SQL queries from VSCode](https://gchandra.medium.com/run-your-databricks-sql-queries-from-vscode-9c70c5d4903c?source=rss-cb7a2de9f0fc------2)
 - [Data Engineering models](https://gchandra.medium.com/data-engineering-models-ed8d7a6c646d?source=rss-cb7a2de9f0fc------2)
 - [How to save the spark data frame as an external table in Databricks?](https://gchandra.medium.com/how-to-save-the-spark-data-frame-as-an-external-table-in-databricks-6e7ce0ab12cc?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Best practice for dropping a managed Delta Lake table.](https://gchandra.medium.com/databricks-best-practice-for-dropping-a-managed-delta-lake-table-e3e001323f71?source=rss-cb7a2de9f0fc------2)
 - [Rust: How values are stored in Heap &amp; Stack](https://gchandra.medium.com/rust-how-values-are-stored-in-heap-stack-21bdcc07cc43?source=rss-cb7a2de9f0fc------2)
-- [Databricks: Pivot JSON columns to rows using PySpark](https://gchandra.medium.com/databricks-pivot-json-columns-to-rows-using-pyspark-baed9c0aea8a?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
