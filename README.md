@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Three essential Cargo Subcommands in Rust programming](https://gchandra.medium.com/three-essential-cargo-subcommands-in-rust-programming-7e096e8ef5c5?source=rss-cb7a2de9f0fc------2)
+- [Three essential Cargo Subcommands in Rust programming](https://medium.com/your-tech-done-better/three-essential-cargo-subcommands-in-rust-programming-7e096e8ef5c5?source=rss-cb7a2de9f0fc------2)
 - [Understanding Data Mesh using Databricks Lakehouse](https://gchandra.medium.com/understanding-data-mesh-using-databricks-lakehouse-62c924083c52?source=rss-cb7a2de9f0fc------2)
 - [Run your Databricks SQL queries from VSCode](https://gchandra.medium.com/run-your-databricks-sql-queries-from-vscode-9c70c5d4903c?source=rss-cb7a2de9f0fc------2)
 - [Data Engineering models](https://gchandra.medium.com/data-engineering-models-ed8d7a6c646d?source=rss-cb7a2de9f0fc------2)
