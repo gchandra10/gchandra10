@@ -13,12 +13,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks: Store the output of SQL Query as Pyspark DataFrame easily.](https://gchandra.medium.com/databricks-store-the-output-of-sql-query-as-pyspark-dataframe-easily-5baddaf77d3?source=rss-cb7a2de9f0fc------2)
 - [Databricks: How to restore dropped tables quickly.](https://gchandra.medium.com/databricks-how-to-restore-dropped-tables-quickly-9985b2a334b5?source=rss-cb7a2de9f0fc------2)
 - [How to create a handy Date Dimension table in Databricks?](https://medium.com/analytics-vidhya/how-to-create-a-handy-date-dimension-table-in-databricks-7772efa54add?source=rss-cb7a2de9f0fc------2)
 - [Databricks: How to read cluster event log programmatically?](https://gchandra.medium.com/databricks-how-to-read-cluster-event-log-programmatically-fc6da97ee460?source=rss-cb7a2de9f0fc------2)
 - [Databricks: How to create an MLflow run from a model &lpar;pickle&rpar; trained outside?](https://medium.com/analytics-vidhya/databricks-how-to-create-an-mlflow-run-from-a-model-pickle-trained-outside-ae6e5a906aea?source=rss-cb7a2de9f0fc------2)
 - [Databricks SQL Warehouse - Best Practices](https://gchandra.medium.com/databricks-sql-warehouse-best-practices-acf45dc9ed47?source=rss-cb7a2de9f0fc------2)
-- [Three essential Cargo Subcommands in Rust programming](https://medium.com/your-tech-done-better/three-essential-cargo-subcommands-in-rust-programming-7e096e8ef5c5?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
