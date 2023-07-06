@@ -13,12 +13,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks SQL: Helpful questions and answers — Part 03](https://gchandra.medium.com/databricks-sql-helpful-questions-and-answers-part-03-fbdfd49d67d3?source=rss-cb7a2de9f0fc------2)
 - [Databricks SQL: Helpful questions and answers — Part 02](https://gchandra.medium.com/databricks-sql-helpful-questions-and-answers-part-02-643365e0535b?source=rss-cb7a2de9f0fc------2)
 - [Databricks SQL: Helpful questions and answers — Part 01](https://gchandra.medium.com/databricks-sql-helpful-questions-and-answers-part-01-5c1f65b66b37?source=rss-cb7a2de9f0fc------2)
 - [Databricks: How to load data from Google Drive / GitHub.](https://gchandra.medium.com/databricks-how-to-load-data-from-google-drive-github-c98d6b34d1b5?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Store the output of SQL Query as Pyspark DataFrame easily.](https://gchandra.medium.com/databricks-store-the-output-of-sql-query-as-pyspark-dataframe-easily-5baddaf77d3?source=rss-cb7a2de9f0fc------2)
 - [Databricks: How to restore dropped tables quickly.](https://gchandra.medium.com/databricks-how-to-restore-dropped-tables-quickly-9985b2a334b5?source=rss-cb7a2de9f0fc------2)
-- [How to create a handy Date Dimension table in Databricks?](https://medium.com/analytics-vidhya/how-to-create-a-handy-date-dimension-table-in-databricks-7772efa54add?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
