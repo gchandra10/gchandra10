@@ -13,12 +13,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks: Cluster policies](https://gchandra.medium.com/databricks-cluster-policies-302225344e19?source=rss-cb7a2de9f0fc------2)
 - [Catalyst Optimizer](https://gchandra.medium.com/catalyst-optimizer-3046ee4c7f11?source=rss-cb7a2de9f0fc------2)
 - [Eventual Consistency](https://gchandra.medium.com/eventual-consistency-74fba357f82e?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Volumes. What is it?](https://gchandra.medium.com/databricks-volumes-what-is-it-23ff78bf6193?source=rss-cb7a2de9f0fc------2)
 - [Azure Databricks: Configure your Storage &amp; Container to load and write data to Azure Object Storage.](https://gchandra.medium.com/azure-databricks-configure-your-storage-container-to-load-and-write-data-to-azure-object-storage-3db8cd506a25?source=rss-cb7a2de9f0fc------2)
 - [Databricks SQL: Helpful questions and answers — Part 03](https://gchandra.medium.com/databricks-sql-helpful-questions-and-answers-part-03-fbdfd49d67d3?source=rss-cb7a2de9f0fc------2)
-- [Databricks SQL: Helpful questions and answers — Part 02](https://gchandra.medium.com/databricks-sql-helpful-questions-and-answers-part-02-643365e0535b?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
