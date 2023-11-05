@@ -13,12 +13,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks: JavaRDD.rdd&lpar;&rpar; is not whitelisted](https://gchandra.medium.com/databricks-javardd-rdd-is-not-whitelisted-97cb1aead56d?source=rss-cb7a2de9f0fc------2)
 - [Rust: Value stored in Stack or Heap?](https://gchandra.medium.com/rust-value-stored-in-stack-or-heap-6c1f7f173e69?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Create a Spark SQL table using non-ASCII characters](https://gchandra.medium.com/databricks-create-a-spark-sql-table-using-non-ascii-characters-183bf836fa11?source=rss-cb7a2de9f0fc------2)
 - [Azure Databricks: Application Log in Application Insights](https://gchandra.medium.com/azure-databricks-application-log-in-application-insights-98ad27f8087a?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Monitor the UC+DLT pipelines](https://gchandra.medium.com/databricks-monitor-the-uc-dlt-pipelines-e1511d733af5?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Cluster policies](https://gchandra.medium.com/databricks-cluster-policies-302225344e19?source=rss-cb7a2de9f0fc------2)
-- [Catalyst Optimizer](https://gchandra.medium.com/catalyst-optimizer-3046ee4c7f11?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
