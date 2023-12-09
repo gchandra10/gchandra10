@@ -13,12 +13,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks: How to mitigate Py4jSecurityException sparkContext.getConf&lpar;&rpar;.getAll&lpar;&rpar; error](https://gchandra.medium.com/databricks-how-to-mitigate-py4jsecurityexception-sparkcontext-getconf-getall-error-9b10fca82f71?source=rss-cb7a2de9f0fc------2)
 - [Databricks: How to mitigate CatalogImpl.tableExists error](https://gchandra.medium.com/databricks-how-to-mitigate-catalogimpl-tableexists-error-39d8ea5d4591?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Using safeToJson&lpar;&rpar; and Python-Box to get notebook metadata](https://gchandra.medium.com/databricks-using-safetojson-and-python-box-to-get-notebook-metadata-4b315de8a730?source=rss-cb7a2de9f0fc------2)
 - [Databricks: JavaRDD.rdd&lpar;&rpar; is not whitelisted](https://gchandra.medium.com/databricks-javardd-rdd-is-not-whitelisted-97cb1aead56d?source=rss-cb7a2de9f0fc------2)
 - [Rust: Value stored in Stack or Heap?](https://gchandra.medium.com/rust-value-stored-in-stack-or-heap-6c1f7f173e69?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Create a Spark SQL table using non-ASCII characters](https://gchandra.medium.com/databricks-create-a-spark-sql-table-using-non-ascii-characters-183bf836fa11?source=rss-cb7a2de9f0fc------2)
-- [Azure Databricks: Application Log in Application Insights](https://gchandra.medium.com/azure-databricks-application-log-in-application-insights-98ad27f8087a?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
