@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Databricks: Execute notebooks remotely using Databricks SDK — Part 02](https://gchandra.medium.com/databricks-execute-notebooks-remotely-using-databricks-sdk-part-02-a6da0bd8e5e2?source=rss-cb7a2de9f0fc------2)
+- [Databricks: Execute notebooks remotely using Databricks SDK — Part 02](https://medium.com/analytics-vidhya/databricks-execute-notebooks-remotely-using-databricks-sdk-part-02-a6da0bd8e5e2?source=rss-cb7a2de9f0fc------2)
 - [Control Databricks programmatically using Databricks SDK — Part 01](https://medium.com/analytics-vidhya/control-databricks-programmatically-using-databricks-sdk-part-01-51ce2058f221?source=rss-cb7a2de9f0fc------2)
 - [Spark SQL: How to create hierarchical dimension tables, a.k.a. the Starflake model.](https://medium.com/analytics-vidhya/spark-sql-how-to-create-hierarchical-dimension-tables-a-k-a-the-starflake-model-f2aba4ce50fb?source=rss-cb7a2de9f0fc------2)
 - [How do you draw architecture diagrams using AI for free?](https://gchandra.medium.com/how-do-you-draw-architecture-diagrams-using-ai-for-free-54be0fa5efa6?source=rss-cb7a2de9f0fc------2)
