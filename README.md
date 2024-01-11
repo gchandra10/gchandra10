@@ -13,12 +13,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Querying Snowflake with Databricks: Leveraging Key Pair Authentication for Secure Data Access](https://medium.com/analytics-vidhya/querying-snowflake-with-databricks-leveraging-key-pair-authentication-for-secure-data-access-83e79911a358?source=rss-cb7a2de9f0fc------2)
 - [Understanding Memoization: A Key to Efficient Computing](https://python.plainenglish.io/understanding-memoization-a-key-to-efficient-computing-d0551758c8bb?source=rss-cb7a2de9f0fc------2)
 - [Spark Partition &lt;&gt; Hive Partition: Mastering the Art of Data Partitioning for Optimal Performance](https://medium.com/analytics-vidhya/spark-partition-hive-partition-mastering-the-art-of-data-partitioning-for-optimal-performance-8829b7652517?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Execute notebooks remotely using Databricks SDK — Part 02](https://medium.com/analytics-vidhya/databricks-execute-notebooks-remotely-using-databricks-sdk-part-02-a6da0bd8e5e2?source=rss-cb7a2de9f0fc------2)
 - [Control Databricks programmatically using Databricks SDK — Part 01](https://medium.com/analytics-vidhya/control-databricks-programmatically-using-databricks-sdk-part-01-51ce2058f221?source=rss-cb7a2de9f0fc------2)
 - [Spark SQL: How to create hierarchical dimension tables, a.k.a. the Starflake model.](https://medium.com/analytics-vidhya/spark-sql-how-to-create-hierarchical-dimension-tables-a-k-a-the-starflake-model-f2aba4ce50fb?source=rss-cb7a2de9f0fc------2)
-- [How do you draw architecture diagrams using AI for free?](https://gchandra.medium.com/how-do-you-draw-architecture-diagrams-using-ai-for-free-54be0fa5efa6?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
