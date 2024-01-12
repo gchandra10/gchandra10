@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Engineering Design Patterns](https://gchandra.medium.com/data-engineering-design-patterns-9e06454ab40e?source=rss-cb7a2de9f0fc------2)
+- [Data Engineering Design Patterns](https://medium.com/analytics-vidhya/data-engineering-design-patterns-9e06454ab40e?source=rss-cb7a2de9f0fc------2)
 - [Querying Snowflake with Databricks: Leveraging Key Pair Authentication for Secure Data Access](https://medium.com/analytics-vidhya/querying-snowflake-with-databricks-leveraging-key-pair-authentication-for-secure-data-access-83e79911a358?source=rss-cb7a2de9f0fc------2)
 - [Understanding Memoization: A Key to Efficient Computing](https://python.plainenglish.io/understanding-memoization-a-key-to-efficient-computing-d0551758c8bb?source=rss-cb7a2de9f0fc------2)
 - [Spark Partition &lt;&gt; Hive Partition: Mastering the Art of Data Partitioning for Optimal Performance](https://medium.com/analytics-vidhya/spark-partition-hive-partition-mastering-the-art-of-data-partitioning-for-optimal-performance-8829b7652517?source=rss-cb7a2de9f0fc------2)
