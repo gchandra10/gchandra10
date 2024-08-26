@@ -13,12 +13,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Medallion Architecture in PySpark: From Basic Scripts to Advanced OOP Methods](https://python.plainenglish.io/medallion-architecture-in-pyspark-from-basic-scripts-to-advanced-oop-methods-9a8613aea3da?source=rss-cb7a2de9f0fc------2)
-- [Multi-Column Pivots in PySpark](https://medium.com/analytics-vidhya/multi-column-pivots-in-pyspark-2237eaab8392?source=rss-cb7a2de9f0fc------2)
-- [Data Engineering Design Patterns](https://medium.com/analytics-vidhya/data-engineering-design-patterns-9e06454ab40e?source=rss-cb7a2de9f0fc------2)
-- [Querying Snowflake with Databricks: Leveraging Key Pair Authentication for Secure Data Access](https://medium.com/analytics-vidhya/querying-snowflake-with-databricks-leveraging-key-pair-authentication-for-secure-data-access-83e79911a358?source=rss-cb7a2de9f0fc------2)
-- [Understanding Memoization: A Key to Efficient Computing](https://python.plainenglish.io/understanding-memoization-a-key-to-efficient-computing-d0551758c8bb?source=rss-cb7a2de9f0fc------2)
-- [Spark Partition &lt;&gt; Hive Partition: Mastering the Art of Data Partitioning for Optimal Performance](https://medium.com/analytics-vidhya/spark-partition-hive-partition-mastering-the-art-of-data-partitioning-for-optimal-performance-8829b7652517?source=rss-cb7a2de9f0fc------2)
+- [Databricks: How do you register an externally trained model &lpar;pickle file&rpar; in Unity Catalog?](https://medium.com/analytics-vidhya/databricks-how-do-you-register-an-externally-trained-model-pickle-file-in-unity-catalog-7c3751ece8b1?source=rss-cb7a2de9f0fc------2)
+- [Databricks: How to process JSON without using sc.parallelize&lpar;&rpar;](https://gchandra.medium.com/databricks-how-to-process-json-without-using-sc-parallelize-24bb29189654?source=rss-cb7a2de9f0fc------2)
+- [Databricks Notebooks: Create Python Class definitions across multiple cells.](https://python.plainenglish.io/databricks-notebooks-create-python-class-definitions-across-multiple-cells-d516c95372b8?source=rss-cb7a2de9f0fc------2)
+- [Databricks: Copy ML Models across Unity Catalog metastores.](https://medium.com/analytics-vidhya/databricks-copy-ml-models-across-unity-catalog-metastores-18806516b3d0?source=rss-cb7a2de9f0fc------2)
+- [Databricks Unity Catalog: Check Dataframe is Empty](https://gchandra.medium.com/databricks-unity-catalog-check-dataframe-is-empty-1260d249d11a?source=rss-cb7a2de9f0fc------2)
+- [Databricks: How to connect Tableau to SQL Warehouse or Spark Compute](https://gchandra.medium.com/databricks-how-to-connect-tableau-to-sql-warehouse-or-spark-compute-bee7ffe8dfaf?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
