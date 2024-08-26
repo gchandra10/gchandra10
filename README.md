@@ -7,10 +7,9 @@
 
 - 📝 I regularly write articles on [http://ganeshchandrasekaran.com](http://ganeshchandrasekaran.com)
 
-- 💬 Ask me about **Lakehouse, Databricks, Delta, Spark, Databases**
+- 💬 Ask me about **Cloud, Lakehouse, Databricks, Delta, Spark, Databases**
 
 ## Connect with me
-
 
 <p align="left">
 <a href="https://twitter.com/gchandra" target="blank"><img align="center" src="images/twitter.png" alt="gchandra" height="32" width="23" /></a>&nbsp;&nbsp;
