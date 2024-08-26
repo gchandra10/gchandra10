@@ -30,4 +30,9 @@
 - [Answer by Ganesh Chandrasekaran for How to use spark configuration variables in a databricks queries?](https://stackoverflow.com/questions/78874668/how-to-use-spark-configuration-variables-in-a-databricks-queries/78880258#78880258)
 - [Answer by Ganesh Chandrasekaran for Error message when creating a catalog: No metastore assigned for the current workspace](https://stackoverflow.com/questions/78870300/error-message-when-creating-a-catalog-no-metastore-assigned-for-the-current-wor/78879406#78879406)
 - [Answer by Ganesh Chandrasekaran for Databricks Asset Bunde - Passing parameters to python code in job](https://stackoverflow.com/questions/78852334/databricks-asset-bunde-passing-parameters-to-python-code-in-job/78879393#78879393)
+- [Answer by Ganesh Chandrasekaran for Databricks Notebook execution failure : Cluster Failure](https://stackoverflow.com/questions/78859913/databricks-notebook-execution-failure-cluster-failure/78866164#78866164)
+- [Answer by Ganesh Chandrasekaran for Azure Databricks - Error message: INVALID_PARAMETER_VALUE: Missing cloud file system scheme](https://stackoverflow.com/questions/78863985/azure-databricks-error-message-invalid-parameter-value-missing-cloud-file-sy/78866087#78866087)
+- [Databricks: Copy ML Models across Unity Catalog metastores.](https://medium.com/analytics-vidhya/databricks-copy-ml-models-across-unity-catalog-metastores-18806516b3d0?source=rss-cb7a2de9f0fc------2)
+- [Databricks Unity Catalog: Check Dataframe is Empty](https://gchandra.medium.com/databricks-unity-catalog-check-dataframe-is-empty-1260d249d11a?source=rss-cb7a2de9f0fc------2)
+- [Answer by Ganesh Chandrasekaran for Unable to login to Azure Databricks Account Console](https://stackoverflow.com/questions/78843411/unable-to-login-to-azure-databricks-account-console/78853722#78853722)
 <!-- BLOG-POST-LIST:END -->
