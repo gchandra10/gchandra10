@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gchandra10&label=Profile%20views&color=0e75b6&style=flat" alt="gchandra10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gchandra" target="blank"><img src="https://img.shields.io/twitter/follow/gchandra?logo=twitter&style=for-the-badge" alt="gchandra" /></a> </p>
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R1FEPR0)
 
 - 📝 I regularly write articles on [http://ganeshchandrasekaran.com](http://ganeshchandrasekaran.com)
