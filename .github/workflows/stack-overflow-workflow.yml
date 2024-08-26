@@ -1,18 +1,21 @@
-name: Latest stack overflow activity
-on:
-  schedule:
-    # Runs every 5 minutes
-    #- cron: '*/60 * * * *'
-    - cron: '* * 30 2 *'
-  workflow_dispatch:
-jobs:
-  update-readme-with-stack-overflow:
-    name: Update this repo's README with latest activity from StackOverflow
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "STACKOVERFLOW"
-          commit_message: "Updated readme with the latest stackOverflow data"
-          feed_list: "https://stackoverflow.com/feeds/user/11086515"       
+name: Latest stackoverflow activity
+on: 
+    schedule:
+        - cron: '0 * * * *'
+    workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+
+permissions:
+  contents: write # To write the generated contents to the readme
+  
+jobs: 
+    update-readme-with-blog: 
+        name: Update this repo's README with the latest blog posts
+        runs-on: ubuntu-latest
+        steps: 
+            - name: Checkout
+              uses: actions/checkout@v4
+            - name: Pull from StackOverflow Forum
+              uses: gautamkrishnar/blog-post-workflow@v1
+              with: 
+                max_post_count: "6"
+                feed_list: "https://stackoverflow.com/feeds/user/11086515"
