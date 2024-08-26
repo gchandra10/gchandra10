@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh Chandrasekaran</h1>
-<h3 align="center">Big Data Solution Architect | Adjunct Professor | Mentor | Volunteer @ Tech Girlz and a Technology enthusiast.</h3>
+<h3 align="center">Cloud Solutions Architect & Big Data Strategist | Adjunct Professor | Mentor | Driving Digital Transformation & Data-Driven Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gchandra10&label=Profile%20views&color=0e75b6&style=flat" alt="gchandra10" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [http://ganeshchandrasekaran.com](http://ganeshchandrasekaran.com)
 
-- 💬 Ask me about **Laskehouse, Databricks, Delta, Spark, Databases**
+- 💬 Ask me about **Lakehouse, Databricks, Delta, Spark, Databases**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
