@@ -23,11 +23,11 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by Ganesh Chandrasekaran for How to stop cursor from jumping to beginning of Databricks cell](https://stackoverflow.com/questions/76715017/how-to-stop-cursor-from-jumping-to-beginning-of-databricks-cell/76790857#76790857)
-- [Answer by Ganesh Chandrasekaran for how can I use foreachbatch to report microbatch size](https://stackoverflow.com/questions/72708710/how-can-i-use-foreachbatch-to-report-microbatch-size/72709099#72709099)
-- [Answer by Ganesh Chandrasekaran for Install Command Line Interface in my machine](https://stackoverflow.com/questions/72705891/install-command-line-interface-in-my-machine/72708665#72708665)
-- [Answer by Ganesh Chandrasekaran for Looping Through Dates in SQL? &lpar;Databricks&rpar;](https://stackoverflow.com/questions/72665614/looping-through-dates-in-sql-databricks/72693749#72693749)
-- [Answer by Ganesh Chandrasekaran for Different Methods for Creating EXTERNAL TABLES Using Spark SQL in Databricks](https://stackoverflow.com/questions/72670995/different-methods-for-creating-external-tables-using-spark-sql-in-databricks/72693159#72693159)
+- [Answer by Ganesh Chandrasekaran for jq merge 2 rows to 1](https://stackoverflow.com/questions/78894931/jq-merge-2-rows-to-1/78894938#78894938)
+- [Answer by Ganesh Chandrasekaran for Unable to login to Azure Databricks Account Console](https://stackoverflow.com/questions/78843411/unable-to-login-to-azure-databricks-account-console/78893694#78893694)
+- [Answer by Ganesh Chandrasekaran for Rdd vs Dataframe vs Dataset, which to use for different data size?](https://stackoverflow.com/questions/78876392/rdd-vs-dataframe-vs-dataset-which-to-use-for-different-data-size/78880337#78880337)
+- [Answer by Ganesh Chandrasekaran for Deploying a Single Node Cluster to a Databricks Workflow using Asset Bundles](https://stackoverflow.com/questions/78873065/deploying-a-single-node-cluster-to-a-databricks-workflow-using-asset-bundles/78880299#78880299)
+- [Answer by Ganesh Chandrasekaran for How to use spark configuration variables in a databricks queries?](https://stackoverflow.com/questions/78874668/how-to-use-spark-configuration-variables-in-a-databricks-queries/78880258#78880258)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
