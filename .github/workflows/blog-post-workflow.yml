@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest blog & stackoverflow posts
 on: 
     schedule:
         - cron: '0 * * * *'
@@ -9,7 +9,7 @@ permissions:
   
 jobs: 
     update-readme-with-blog: 
-        name: Update this repo's README with the latest blog posts
+        name: Update this repo's README with the latest blog & stackoverflow posts
         runs-on: ubuntu-latest
         steps: 
             - name: Checkout
@@ -17,5 +17,5 @@ jobs:
             - name: Pull from Medium Blog
               uses: gautamkrishnar/blog-post-workflow@v1
               with: 
-                max_post_count: "6"
-                feed_list: "https://medium.com/feed/@gchandra"
+                max_post_count: "10"
+                feed_list: "https://medium.com/feed/@gchandra,https://stackoverflow.com/feeds/user/11086515"
