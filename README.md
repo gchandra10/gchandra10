@@ -20,6 +20,7 @@
 
 ## Blog & Stack Overflow Contributions
 <!-- BLOG-POST-LIST:START -->
+- [Answer by Ganesh Chandrasekaran for Databricks Autoloader batch mode](https://stackoverflow.com/questions/78914546/databricks-autoloader-batch-mode/78915954#78915954)
 - [Databricks: How do you register an externally trained model &lpar;pickle file&rpar; in Unity Catalog?](https://medium.com/analytics-vidhya/databricks-how-do-you-register-an-externally-trained-model-pickle-file-in-unity-catalog-7c3751ece8b1?source=rss-cb7a2de9f0fc------2)
 - [Answer by Ganesh Chandrasekaran for jq merge 2 rows to 1](https://stackoverflow.com/questions/78894931/jq-merge-2-rows-to-1/78894938#78894938)
 - [Databricks: How to process JSON without using sc.parallelize&lpar;&rpar;](https://gchandra.medium.com/databricks-how-to-process-json-without-using-sc-parallelize-24bb29189654?source=rss-cb7a2de9f0fc------2)
@@ -34,5 +35,4 @@
 - [Answer by Ganesh Chandrasekaran for Azure Databricks - Error message: INVALID_PARAMETER_VALUE: Missing cloud file system scheme](https://stackoverflow.com/questions/78863985/azure-databricks-error-message-invalid-parameter-value-missing-cloud-file-sy/78866087#78866087)
 - [Databricks: Copy ML Models across Unity Catalog metastores.](https://medium.com/analytics-vidhya/databricks-copy-ml-models-across-unity-catalog-metastores-18806516b3d0?source=rss-cb7a2de9f0fc------2)
 - [Databricks Unity Catalog: Check Dataframe is Empty](https://gchandra.medium.com/databricks-unity-catalog-check-dataframe-is-empty-1260d249d11a?source=rss-cb7a2de9f0fc------2)
-- [Answer by Ganesh Chandrasekaran for Unable to login to Azure Databricks Account Console](https://stackoverflow.com/questions/78843411/unable-to-login-to-azure-databricks-account-console/78853722#78853722)
 <!-- BLOG-POST-LIST:END -->
