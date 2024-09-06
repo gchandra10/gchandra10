@@ -20,6 +20,7 @@
 
 ## Blog & Stack Overflow Contributions
 <!-- BLOG-POST-LIST:START -->
+- [Answer by Ganesh Chandrasekaran for Reading Data from Databricks Sqlware house using a Databricks Spark cluster](https://stackoverflow.com/questions/78951339/reading-data-from-databricks-sqlware-house-using-a-databricks-spark-cluster/78952233#78952233)
 - [Answer by Ganesh Chandrasekaran for how to use pydabs to create and configure workflows/pipelines?](https://stackoverflow.com/questions/78949053/how-to-use-pydabs-to-create-and-configure-workflows-pipelines/78949456#78949456)
 - [Answer by Ganesh Chandrasekaran for how to use pydabs to create and configure workflows/pipelines?](https://stackoverflow.com/questions/78949053/how-to-use-pydabs-to-create-and-configure-workflows-pipelines/78949096#78949096)
 - [Databricks: Copy ML Model from Workspace to Unity Catalog](https://medium.com/analytics-vidhya/databricks-copy-ml-model-from-workspace-to-unity-catalog-750f63b45324?source=rss-cb7a2de9f0fc------2)
@@ -34,5 +35,4 @@
 - [Answer by Ganesh Chandrasekaran for How to use spark configuration variables in a databricks queries?](https://stackoverflow.com/questions/78874668/how-to-use-spark-configuration-variables-in-a-databricks-queries/78880258#78880258)
 - [Answer by Ganesh Chandrasekaran for Error message when creating a catalog: No metastore assigned for the current workspace](https://stackoverflow.com/questions/78870300/error-message-when-creating-a-catalog-no-metastore-assigned-for-the-current-wor/78879406#78879406)
 - [Answer by Ganesh Chandrasekaran for Databricks Asset Bunde - Passing parameters to python code in job](https://stackoverflow.com/questions/78852334/databricks-asset-bunde-passing-parameters-to-python-code-in-job/78879393#78879393)
-- [Answer by Ganesh Chandrasekaran for Databricks Notebook execution failure : Cluster Failure](https://stackoverflow.com/questions/78859913/databricks-notebook-execution-failure-cluster-failure/78866164#78866164)
 <!-- BLOG-POST-LIST:END -->
