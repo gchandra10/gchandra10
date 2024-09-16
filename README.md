@@ -20,6 +20,7 @@
 
 ## Blog & Stack Overflow Contributions
 <!-- BLOG-POST-LIST:START -->
+- [Answer by Ganesh Chandrasekaran for How can I automate capture of output of last command in iTerm2?](https://stackoverflow.com/questions/78987451/how-can-i-automate-capture-of-output-of-last-command-in-iterm2/78987471#78987471)
 - [Answer by Ganesh Chandrasekaran for Logs not being written of parent directory included in filename](https://stackoverflow.com/questions/78979109/logs-not-being-written-of-parent-directory-included-in-filename/78982287#78982287)
 - [Answer by Ganesh Chandrasekaran for Best practice to set up loggers with two different outputs in Databricks](https://stackoverflow.com/questions/78978260/best-practice-to-set-up-loggers-with-two-different-outputs-in-databricks/78978323#78978323)
 - [Answer by Ganesh Chandrasekaran for Reading Data from Databricks Sqlware house using a Databricks Spark cluster](https://stackoverflow.com/questions/78951339/reading-data-from-databricks-sqlware-house-using-a-databricks-spark-cluster/78952233#78952233)
@@ -34,5 +35,4 @@
 - [Answer by Ganesh Chandrasekaran for Unable to login to Azure Databricks Account Console](https://stackoverflow.com/questions/78843411/unable-to-login-to-azure-databricks-account-console/78893694#78893694)
 - [Databricks Notebooks: Create Python Class definitions across multiple cells.](https://python.plainenglish.io/databricks-notebooks-create-python-class-definitions-across-multiple-cells-d516c95372b8?source=rss-cb7a2de9f0fc------2)
 - [Answer by Ganesh Chandrasekaran for Deploying a Single Node Cluster to a Databricks Workflow using Asset Bundles](https://stackoverflow.com/questions/78873065/deploying-a-single-node-cluster-to-a-databricks-workflow-using-asset-bundles/78880299#78880299)
-- [Answer by Ganesh Chandrasekaran for How to use spark configuration variables in a databricks queries?](https://stackoverflow.com/questions/78874668/how-to-use-spark-configuration-variables-in-a-databricks-queries/78880258#78880258)
 <!-- BLOG-POST-LIST:END -->
