@@ -20,6 +20,8 @@
 
 ## Blog & Stack Overflow Contributions
 <!-- BLOG-POST-LIST:START -->
+- [Answer by Ganesh Chandrasekaran for Differences between download a library form PyPi and CLI](https://stackoverflow.com/questions/79032907/differences-between-download-a-library-form-pypi-and-cli/79032938#79032938)
+- [Answer by Ganesh Chandrasekaran for Need for volumes in Databricks](https://stackoverflow.com/questions/79018635/need-for-volumes-in-databricks/79031507#79031507)
 - [Answer by Ganesh Chandrasekaran for DLT watermark name &#39;window&#39; is not defined](https://stackoverflow.com/questions/78899032/dlt-watermark-name-window-is-not-defined/79014821#79014821)
 - [Answer by Ganesh Chandrasekaran for Save a file in Databricks Workspace using Scala/Java](https://stackoverflow.com/questions/78990628/save-a-file-in-databricks-workspace-using-scala-java/78991915#78991915)
 - [Answer by Ganesh Chandrasekaran for Databricks CLI and Azure CLI -](https://stackoverflow.com/questions/78983569/databricks-cli-and-azure-cli/78990420#78990420)
@@ -33,6 +35,4 @@
 - [Answer by Ganesh Chandrasekaran for pySpark RDD whitelisted Class issues](https://stackoverflow.com/questions/78918741/pyspark-rdd-whitelisted-class-issues/78918778#78918778)
 - [Answer by Ganesh Chandrasekaran for Databricks Autoloader batch mode](https://stackoverflow.com/questions/78914546/databricks-autoloader-batch-mode/78915954#78915954)
 - [Databricks: How do you register an externally trained model &lpar;pickle file&rpar; in Unity Catalog?](https://medium.com/analytics-vidhya/databricks-how-do-you-register-an-externally-trained-model-pickle-file-in-unity-catalog-7c3751ece8b1?source=rss-cb7a2de9f0fc------2)
-- [Answer by Ganesh Chandrasekaran for jq merge 2 rows to 1](https://stackoverflow.com/questions/78894931/jq-merge-2-rows-to-1/78894938#78894938)
-- [Databricks: How to process JSON without using sc.parallelize&lpar;&rpar;](https://gchandra.medium.com/databricks-how-to-process-json-without-using-sc-parallelize-24bb29189654?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
