@@ -20,6 +20,7 @@
 
 ## Blog & Stack Overflow Contributions
 <!-- BLOG-POST-LIST:START -->
+- [Answer by Ganesh Chandrasekaran for Is there a way to use parameters in Databricks in SQL with parameter marker syntax &lpar;:param&rpar; inside create view?](https://stackoverflow.com/questions/79035989/is-there-a-way-to-use-parameters-in-databricks-in-sql-with-parameter-marker-synt/79036755#79036755)
 - [Answer by Ganesh Chandrasekaran for Differences between download a library form PyPi and CLI](https://stackoverflow.com/questions/79032907/differences-between-download-a-library-form-pypi-and-cli/79032938#79032938)
 - [Answer by Ganesh Chandrasekaran for Need for volumes in Databricks](https://stackoverflow.com/questions/79018635/need-for-volumes-in-databricks/79031507#79031507)
 - [Answer by Ganesh Chandrasekaran for DLT watermark name &#39;window&#39; is not defined](https://stackoverflow.com/questions/78899032/dlt-watermark-name-window-is-not-defined/79014821#79014821)
@@ -34,5 +35,4 @@
 - [Databricks: Copy ML Model from Workspace to Unity Catalog](https://medium.com/analytics-vidhya/databricks-copy-ml-model-from-workspace-to-unity-catalog-750f63b45324?source=rss-cb7a2de9f0fc------2)
 - [Answer by Ganesh Chandrasekaran for pySpark RDD whitelisted Class issues](https://stackoverflow.com/questions/78918741/pyspark-rdd-whitelisted-class-issues/78918778#78918778)
 - [Answer by Ganesh Chandrasekaran for Databricks Autoloader batch mode](https://stackoverflow.com/questions/78914546/databricks-autoloader-batch-mode/78915954#78915954)
-- [Databricks: How do you register an externally trained model &lpar;pickle file&rpar; in Unity Catalog?](https://medium.com/analytics-vidhya/databricks-how-do-you-register-an-externally-trained-model-pickle-file-in-unity-catalog-7c3751ece8b1?source=rss-cb7a2de9f0fc------2)
 <!-- BLOG-POST-LIST:END -->
