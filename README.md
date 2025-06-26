@@ -20,6 +20,7 @@
 
 ## Blog & Stack Overflow Contributions
 <!-- BLOG-POST-LIST:START -->
+- [Databricks: Convert .py to Notebook format](https://gchandra.medium.com/databricks-convert-py-to-notebook-format-ce86bdae4e30?source=rss-cb7a2de9f0fc------2)
 - [Unity Catalog OSS — 01](https://gchandra.medium.com/unity-catalog-oss-01-19d1b09094ed?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Using Python logging module in notebooks](https://gchandra.medium.com/databricks-using-python-logging-module-in-notebooks-6348bbb3ac60?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Convert Unstructured data into Structured data in 2 minutes.](https://gchandra.medium.com/databricks-convert-unstructured-data-into-structured-data-in-2-minutes-14b31692d049?source=rss-cb7a2de9f0fc------2)
@@ -34,5 +35,4 @@
 - [Answer by Ganesh Chandrasekaran for Logs not being written of parent directory included in filename](https://stackoverflow.com/questions/78979109/logs-not-being-written-of-parent-directory-included-in-filename/78982287#78982287)
 - [Answer by Ganesh Chandrasekaran for Best practice to set up loggers with two different outputs in Databricks](https://stackoverflow.com/questions/78978260/best-practice-to-set-up-loggers-with-two-different-outputs-in-databricks/78978323#78978323)
 - [Answer by Ganesh Chandrasekaran for Reading Data from Databricks Sqlware house using a Databricks Spark cluster](https://stackoverflow.com/questions/78951339/reading-data-from-databricks-sqlware-house-using-a-databricks-spark-cluster/78952233#78952233)
-- [Answer by Ganesh Chandrasekaran for how to use pydabs to create and configure workflows/pipelines?](https://stackoverflow.com/questions/78949053/how-to-use-pydabs-to-create-and-configure-workflows-pipelines/78949456#78949456)
 <!-- BLOG-POST-LIST:END -->
