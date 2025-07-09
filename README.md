@@ -20,6 +20,10 @@
 
 ## Blog & Stack Overflow Contributions
 <!-- BLOG-POST-LIST:START -->
+- [Databricks: Convert .py to Notebook format](https://gchandra.medium.com/databricks-convert-py-to-notebook-format-ce86bdae4e30?source=rss-cb7a2de9f0fc------2)
+- [Unity Catalog OSS — 01](https://gchandra.medium.com/unity-catalog-oss-01-19d1b09094ed?source=rss-cb7a2de9f0fc------2)
+- [Databricks: Using Python logging module in notebooks](https://gchandra.medium.com/databricks-using-python-logging-module-in-notebooks-6348bbb3ac60?source=rss-cb7a2de9f0fc------2)
+- [Databricks: Convert Unstructured data into Structured data in 2 minutes.](https://gchandra.medium.com/databricks-convert-unstructured-data-into-structured-data-in-2-minutes-14b31692d049?source=rss-cb7a2de9f0fc------2)
 - [Answer by Ganesh Chandrasekaran for Cannot see DBFS option in the catalog section in Databricks Community Edition](https://stackoverflow.com/questions/79099778/cannot-see-dbfs-option-in-the-catalog-section-in-databricks-community-edition/79100282#79100282)
 - [Answer by Ganesh Chandrasekaran for Is there a way to use parameters in Databricks in SQL with parameter marker syntax &lpar;:param&rpar; inside create view?](https://stackoverflow.com/questions/79035989/is-there-a-way-to-use-parameters-in-databricks-in-sql-with-parameter-marker-synt/79036755#79036755)
 - [Answer by Ganesh Chandrasekaran for Differences between download a library form PyPi and CLI](https://stackoverflow.com/questions/79032907/differences-between-download-a-library-form-pypi-and-cli/79032938#79032938)
@@ -31,8 +35,4 @@
 - [Answer by Ganesh Chandrasekaran for Logs not being written of parent directory included in filename](https://stackoverflow.com/questions/78979109/logs-not-being-written-of-parent-directory-included-in-filename/78982287#78982287)
 - [Answer by Ganesh Chandrasekaran for Best practice to set up loggers with two different outputs in Databricks](https://stackoverflow.com/questions/78978260/best-practice-to-set-up-loggers-with-two-different-outputs-in-databricks/78978323#78978323)
 - [Answer by Ganesh Chandrasekaran for Reading Data from Databricks Sqlware house using a Databricks Spark cluster](https://stackoverflow.com/questions/78951339/reading-data-from-databricks-sqlware-house-using-a-databricks-spark-cluster/78952233#78952233)
-- [Answer by Ganesh Chandrasekaran for how to use pydabs to create and configure workflows/pipelines?](https://stackoverflow.com/questions/78949053/how-to-use-pydabs-to-create-and-configure-workflows-pipelines/78949456#78949456)
-- [Answer by Ganesh Chandrasekaran for how to use pydabs to create and configure workflows/pipelines?](https://stackoverflow.com/questions/78949053/how-to-use-pydabs-to-create-and-configure-workflows-pipelines/78949096#78949096)
-- [Answer by Ganesh Chandrasekaran for pySpark RDD whitelisted Class issues](https://stackoverflow.com/questions/78918741/pyspark-rdd-whitelisted-class-issues/78918778#78918778)
-- [Answer by Ganesh Chandrasekaran for Databricks Autoloader batch mode](https://stackoverflow.com/questions/78914546/databricks-autoloader-batch-mode/78915954#78915954)
 <!-- BLOG-POST-LIST:END -->
