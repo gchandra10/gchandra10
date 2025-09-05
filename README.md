@@ -5,7 +5,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R1FEPR0)
 
-- 📝 I regularly write articles on [http://ganeshchandrasekaran.com](http://ganeshchandrasekaran.com)
+- 📝 I regularly write technical articles on [https://ganeshchandrasekaran.com](https://ganeshchandrasekaran.com) and random thoughts on [https://gchandra.blog](https://gchandra.blog/)
 
 - 💬 Ask me about **Cloud, Lakehouse, Databricks, Delta, Spark, Databases**
 
