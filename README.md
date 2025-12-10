@@ -20,6 +20,7 @@
 
 ## Blog & Stack Overflow Contributions
 <!-- BLOG-POST-LIST:START -->
+- [Databricks: Native Excel Support in Spark](https://gchandra.medium.com/databricks-native-excel-support-in-spark-6963e021f251?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Delta Share Iceberg Tables](https://gchandra.medium.com/databricks-delta-share-iceberg-tables-467243f568f8?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Convert .py to Notebook format](https://gchandra.medium.com/databricks-convert-py-to-notebook-format-ce86bdae4e30?source=rss-cb7a2de9f0fc------2)
 - [Unity Catalog OSS — 01](https://gchandra.medium.com/unity-catalog-oss-01-19d1b09094ed?source=rss-cb7a2de9f0fc------2)
@@ -34,5 +35,4 @@
 - [Answer by Ganesh Chandrasekaran for Databricks CLI and Azure CLI -](https://stackoverflow.com/questions/78983569/databricks-cli-and-azure-cli/78990420#78990420)
 - [Answer by Ganesh Chandrasekaran for How can I automate capture of output of last command in iTerm2?](https://stackoverflow.com/questions/78987451/how-can-i-automate-capture-of-output-of-last-command-in-iterm2/78987471#78987471)
 - [Answer by Ganesh Chandrasekaran for Logs not being written of parent directory included in filename](https://stackoverflow.com/questions/78979109/logs-not-being-written-of-parent-directory-included-in-filename/78982287#78982287)
-- [Answer by Ganesh Chandrasekaran for Best practice to set up loggers with two different outputs in Databricks](https://stackoverflow.com/questions/78978260/best-practice-to-set-up-loggers-with-two-different-outputs-in-databricks/78978323#78978323)
 <!-- BLOG-POST-LIST:END -->
