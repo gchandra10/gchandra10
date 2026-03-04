@@ -20,7 +20,9 @@
 
 ## Blog & Stack Overflow Contributions
 <!-- BLOG-POST-LIST:START -->
-- [Databricks: Native Excel Support in Spark](https://gchandra.medium.com/databricks-native-excel-support-in-spark-6963e021f251?source=rss-cb7a2de9f0fc------2)
+- [Lakebase: Removing the App to Lakehouse friction](https://medium.datadriveninvestor.com/lakebase-removing-the-app-to-lakehouse-friction-187117b60a2a?source=rss-cb7a2de9f0fc------2)
+- [Governance by Design with Databricks Asset Bundles](https://medium.datadriveninvestor.com/governance-by-design-with-databricks-asset-bundles-17895e103568?source=rss-cb7a2de9f0fc------2)
+- [Databricks: Native Excel Support in Spark](https://medium.com/analytics-vidhya/databricks-native-excel-support-in-spark-6963e021f251?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Delta Share Iceberg Tables](https://gchandra.medium.com/databricks-delta-share-iceberg-tables-467243f568f8?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Convert .py to Notebook format](https://gchandra.medium.com/databricks-convert-py-to-notebook-format-ce86bdae4e30?source=rss-cb7a2de9f0fc------2)
 - [Unity Catalog OSS — 01](https://gchandra.medium.com/unity-catalog-oss-01-19d1b09094ed?source=rss-cb7a2de9f0fc------2)
@@ -33,6 +35,4 @@
 - [Answer by Ganesh Chandrasekaran for DLT watermark name &#39;window&#39; is not defined](https://stackoverflow.com/questions/78899032/dlt-watermark-name-window-is-not-defined/79014821#79014821)
 - [Answer by Ganesh Chandrasekaran for Save a file in Databricks Workspace using Scala/Java](https://stackoverflow.com/questions/78990628/save-a-file-in-databricks-workspace-using-scala-java/78991915#78991915)
 - [Answer by Ganesh Chandrasekaran for Databricks CLI and Azure CLI -](https://stackoverflow.com/questions/78983569/databricks-cli-and-azure-cli/78990420#78990420)
-- [Answer by Ganesh Chandrasekaran for How can I automate capture of output of last command in iTerm2?](https://stackoverflow.com/questions/78987451/how-can-i-automate-capture-of-output-of-last-command-in-iterm2/78987471#78987471)
-- [Answer by Ganesh Chandrasekaran for Logs not being written of parent directory included in filename](https://stackoverflow.com/questions/78979109/logs-not-being-written-of-parent-directory-included-in-filename/78982287#78982287)
 <!-- BLOG-POST-LIST:END -->
