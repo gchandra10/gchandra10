@@ -20,6 +20,7 @@
 
 ## Blog & Stack Overflow Contributions
 <!-- BLOG-POST-LIST:START -->
+- [Copy Teradata Data to Databricks UC using Foreign Catalog](https://medium.datadriveninvestor.com/copy-teradata-data-to-databricks-uc-using-foreign-catalog-0aa5641023b4?source=rss-cb7a2de9f0fc------2)
 - [Lakebase: Removing the App to Lakehouse friction](https://medium.datadriveninvestor.com/lakebase-removing-the-app-to-lakehouse-friction-187117b60a2a?source=rss-cb7a2de9f0fc------2)
 - [Governance by Design with Databricks Asset Bundles](https://medium.datadriveninvestor.com/governance-by-design-with-databricks-asset-bundles-17895e103568?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Native Excel Support in Spark](https://medium.com/analytics-vidhya/databricks-native-excel-support-in-spark-6963e021f251?source=rss-cb7a2de9f0fc------2)
@@ -34,5 +35,4 @@
 - [Answer by Ganesh Chandrasekaran for Need for volumes in Databricks](https://stackoverflow.com/questions/79018635/need-for-volumes-in-databricks/79031507#79031507)
 - [Answer by Ganesh Chandrasekaran for DLT watermark name &#39;window&#39; is not defined](https://stackoverflow.com/questions/78899032/dlt-watermark-name-window-is-not-defined/79014821#79014821)
 - [Answer by Ganesh Chandrasekaran for Save a file in Databricks Workspace using Scala/Java](https://stackoverflow.com/questions/78990628/save-a-file-in-databricks-workspace-using-scala-java/78991915#78991915)
-- [Answer by Ganesh Chandrasekaran for Databricks CLI and Azure CLI -](https://stackoverflow.com/questions/78983569/databricks-cli-and-azure-cli/78990420#78990420)
 <!-- BLOG-POST-LIST:END -->
