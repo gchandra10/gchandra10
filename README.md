@@ -20,8 +20,8 @@
 
 ## Blog & Stack Overflow Contributions
 <!-- BLOG-POST-LIST:START -->
-- [Meet the Databricks Genies](https://medium.datadriveninvestor.com/meet-the-databricks-genies-b0a45755b121?source=rss-cb7a2de9f0fc------2)
-- [Databricks: Genie One vs Genie Spaces](https://medium.datadriveninvestor.com/databricks-genie-one-vs-genie-spaces-6eaa445492ff?source=rss-cb7a2de9f0fc------2)
+- [Meet the Databricks Genies](https://gchandra.medium.com/meet-the-databricks-genies-b0a45755b121?source=rss-cb7a2de9f0fc------2)
+- [Databricks: Genie One vs Genie Spaces](https://gchandra.medium.com/databricks-genie-one-vs-genie-spaces-6eaa445492ff?source=rss-cb7a2de9f0fc------2)
 - [Copy Teradata Data to Databricks UC using Foreign Catalog](https://medium.datadriveninvestor.com/copy-teradata-data-to-databricks-uc-using-foreign-catalog-0aa5641023b4?source=rss-cb7a2de9f0fc------2)
 - [Lakebase: Removing the App to Lakehouse friction](https://medium.datadriveninvestor.com/lakebase-removing-the-app-to-lakehouse-friction-187117b60a2a?source=rss-cb7a2de9f0fc------2)
 - [Governance by Design with Databricks Asset Bundles](https://medium.datadriveninvestor.com/governance-by-design-with-databricks-asset-bundles-17895e103568?source=rss-cb7a2de9f0fc------2)
