@@ -30,4 +30,9 @@
 - [Databricks: Convert .py to Notebook format](https://gchandra.medium.com/databricks-convert-py-to-notebook-format-ce86bdae4e30?source=rss-cb7a2de9f0fc------2)
 - [Unity Catalog OSS — 01](https://gchandra.medium.com/unity-catalog-oss-01-19d1b09094ed?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Using Python logging module in notebooks](https://gchandra.medium.com/databricks-using-python-logging-module-in-notebooks-6348bbb3ac60?source=rss-cb7a2de9f0fc------2)
+- [Answer by Ganesh Chandrasekaran for Cannot see DBFS option in the catalog section in Databricks Community Edition](https://stackoverflow.com/questions/79099778/cannot-see-dbfs-option-in-the-catalog-section-in-databricks-community-edition/79100282#79100282)
+- [Answer by Ganesh Chandrasekaran for Is there a way to use parameters in Databricks in SQL with parameter marker syntax &lpar;:param&rpar; inside create view?](https://stackoverflow.com/questions/79035989/is-there-a-way-to-use-parameters-in-databricks-in-sql-with-parameter-marker-synt/79036755#79036755)
+- [Answer by Ganesh Chandrasekaran for Differences between download a library form PyPi and CLI](https://stackoverflow.com/questions/79032907/differences-between-download-a-library-form-pypi-and-cli/79032938#79032938)
+- [Answer by Ganesh Chandrasekaran for Need for volumes in Databricks](https://stackoverflow.com/questions/79018635/need-for-volumes-in-databricks/79031507#79031507)
+- [Answer by Ganesh Chandrasekaran for DLT watermark name &#39;window&#39; is not defined](https://stackoverflow.com/questions/78899032/dlt-watermark-name-window-is-not-defined/79014821#79014821)
 <!-- BLOG-POST-LIST:END -->
