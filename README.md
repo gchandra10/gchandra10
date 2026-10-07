@@ -20,6 +20,7 @@
 
 ## Blog & Stack Overflow Contributions
 <!-- BLOG-POST-LIST:START -->
+- [Still Hesitant About Lakeflow Declarative Pipelines? Let’s Clear Up a Few Things.](https://gchandra.medium.com/still-hesitant-about-lakeflow-declarative-pipelines-lets-clear-up-a-few-things-f271d36a6b34?source=rss-cb7a2de9f0fc------2)
 - [Meet the Databricks Genies](https://gchandra.medium.com/meet-the-databricks-genies-b0a45755b121?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Genie One vs Genie Spaces](https://gchandra.medium.com/databricks-genie-one-vs-genie-spaces-6eaa445492ff?source=rss-cb7a2de9f0fc------2)
 - [Copy Teradata Data to Databricks UC using Foreign Catalog](https://medium.datadriveninvestor.com/copy-teradata-data-to-databricks-uc-using-foreign-catalog-0aa5641023b4?source=rss-cb7a2de9f0fc------2)
@@ -29,7 +30,6 @@
 - [Databricks: Delta Share Iceberg Tables](https://gchandra.medium.com/databricks-delta-share-iceberg-tables-467243f568f8?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Convert .py to Notebook format](https://gchandra.medium.com/databricks-convert-py-to-notebook-format-ce86bdae4e30?source=rss-cb7a2de9f0fc------2)
 - [Unity Catalog OSS — 01](https://gchandra.medium.com/unity-catalog-oss-01-19d1b09094ed?source=rss-cb7a2de9f0fc------2)
-- [Databricks: Using Python logging module in notebooks](https://gchandra.medium.com/databricks-using-python-logging-module-in-notebooks-6348bbb3ac60?source=rss-cb7a2de9f0fc------2)
 - [Answer by Ganesh Chandrasekaran for Cannot see DBFS option in the catalog section in Databricks Community Edition](https://stackoverflow.com/questions/79099778/cannot-see-dbfs-option-in-the-catalog-section-in-databricks-community-edition/79100282#79100282)
 - [Answer by Ganesh Chandrasekaran for Is there a way to use parameters in Databricks in SQL with parameter marker syntax &lpar;:param&rpar; inside create view?](https://stackoverflow.com/questions/79035989/is-there-a-way-to-use-parameters-in-databricks-in-sql-with-parameter-marker-synt/79036755#79036755)
 - [Answer by Ganesh Chandrasekaran for Differences between download a library form PyPi and CLI](https://stackoverflow.com/questions/79032907/differences-between-download-a-library-form-pypi-and-cli/79032938#79032938)
