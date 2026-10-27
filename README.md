@@ -20,6 +20,7 @@
 
 ## Blog & Stack Overflow Contributions
 <!-- BLOG-POST-LIST:START -->
+- [Hierarchical Clustering in Databricks](https://gchandra.medium.com/hierarchical-clustering-in-databricks-20e4570b4113?source=rss-cb7a2de9f0fc------2)
 - [Genie Code: What I Use Daily and What I Still Double-Check](https://gchandra.medium.com/genie-code-what-i-use-daily-and-what-i-still-double-check-fdbb2a02664c?source=rss-cb7a2de9f0fc------2)
 - [Query Unity Catalog Views and Delta Tables from External Apache Spark](https://gchandra.medium.com/query-unity-catalog-views-and-delta-tables-from-external-apache-spark-b78cd1053c62?source=rss-cb7a2de9f0fc------2)
 - [Still Hesitant About Lakeflow Declarative Pipelines? Let’s Clear Up a Few Things.](https://gchandra.medium.com/still-hesitant-about-lakeflow-declarative-pipelines-lets-clear-up-a-few-things-f271d36a6b34?source=rss-cb7a2de9f0fc------2)
@@ -29,7 +30,6 @@
 - [Lakebase: Removing the App to Lakehouse friction](https://medium.datadriveninvestor.com/lakebase-removing-the-app-to-lakehouse-friction-187117b60a2a?source=rss-cb7a2de9f0fc------2)
 - [Governance by Design with Databricks Asset Bundles](https://medium.datadriveninvestor.com/governance-by-design-with-databricks-asset-bundles-17895e103568?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Native Excel Support in Spark](https://medium.com/analytics-vidhya/databricks-native-excel-support-in-spark-6963e021f251?source=rss-cb7a2de9f0fc------2)
-- [Databricks: Delta Share Iceberg Tables](https://gchandra.medium.com/databricks-delta-share-iceberg-tables-467243f568f8?source=rss-cb7a2de9f0fc------2)
 - [Answer by Ganesh Chandrasekaran for Cannot see DBFS option in the catalog section in Databricks Community Edition](https://stackoverflow.com/questions/79099778/cannot-see-dbfs-option-in-the-catalog-section-in-databricks-community-edition/79100282#79100282)
 - [Answer by Ganesh Chandrasekaran for Is there a way to use parameters in Databricks in SQL with parameter marker syntax &lpar;:param&rpar; inside create view?](https://stackoverflow.com/questions/79035989/is-there-a-way-to-use-parameters-in-databricks-in-sql-with-parameter-marker-synt/79036755#79036755)
 - [Answer by Ganesh Chandrasekaran for Differences between download a library form PyPi and CLI](https://stackoverflow.com/questions/79032907/differences-between-download-a-library-form-pypi-and-cli/79032938#79032938)
