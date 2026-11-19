@@ -20,10 +20,10 @@
 
 ## Blog & Stack Overflow Contributions
 <!-- BLOG-POST-LIST:START -->
-- [ODCS with Databricks: A Practitioner Guide](https://gchandra.medium.com/odcs-with-databricks-a-practitioner-guide-b01ef06ff21c?source=rss-cb7a2de9f0fc------2)
+- [ODCS with Databricks: A Practitioner Guide](https://medium.com/databrickscommunity/odcs-with-databricks-a-practitioner-guide-b01ef06ff21c?source=rss-cb7a2de9f0fc------2)
 - [Hierarchical Clustering in Databricks](https://gchandra.medium.com/hierarchical-clustering-in-databricks-20e4570b4113?source=rss-cb7a2de9f0fc------2)
 - [Genie Code: What I Use Daily and What I Still Double-Check](https://gchandra.medium.com/genie-code-what-i-use-daily-and-what-i-still-double-check-fdbb2a02664c?source=rss-cb7a2de9f0fc------2)
-- [Query Unity Catalog Views and Delta Tables from External Apache Spark](https://gchandra.medium.com/query-unity-catalog-views-and-delta-tables-from-external-apache-spark-b78cd1053c62?source=rss-cb7a2de9f0fc------2)
+- [Query Unity Catalog Views and Delta Tables from External Apache Spark](https://medium.com/databrickscommunity/query-unity-catalog-views-and-delta-tables-from-external-apache-spark-b78cd1053c62?source=rss-cb7a2de9f0fc------2)
 - [Still Hesitant About Lakeflow Declarative Pipelines? Let’s Clear Up a Few Things.](https://gchandra.medium.com/still-hesitant-about-lakeflow-declarative-pipelines-lets-clear-up-a-few-things-f271d36a6b34?source=rss-cb7a2de9f0fc------2)
 - [Meet the Databricks Genies](https://gchandra.medium.com/meet-the-databricks-genies-b0a45755b121?source=rss-cb7a2de9f0fc------2)
 - [Databricks: Genie One vs Genie Spaces](https://gchandra.medium.com/databricks-genie-one-vs-genie-spaces-6eaa445492ff?source=rss-cb7a2de9f0fc------2)
