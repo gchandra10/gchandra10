@@ -20,7 +20,7 @@
 
 ## Blog & Stack Overflow Contributions
 <!-- BLOG-POST-LIST:START -->
-- [Databricks Genie Code CLI: A Practitioner’s Guide](https://medium.com/analytics-vidhya/databricks-genie-code-cli-a-practitioners-guide-b3ab6216b098?source=rss-cb7a2de9f0fc------2)
+- [Databricks Genie Code CLI: A Practitioner’s Guide](https://gchandra.medium.com/databricks-genie-code-cli-a-practitioners-guide-b3ab6216b098?source=rss-cb7a2de9f0fc------2)
 - [ODCS with Databricks: A Practitioner Guide](https://medium.com/databrickscommunity/odcs-with-databricks-a-practitioner-guide-b01ef06ff21c?source=rss-cb7a2de9f0fc------2)
 - [Hierarchical Clustering in Databricks](https://medium.com/databrickscommunity/hierarchical-clustering-in-databricks-20e4570b4113?source=rss-cb7a2de9f0fc------2)
 - [Genie Code: What I Use Daily and What I Still Double-Check](https://gchandra.medium.com/genie-code-what-i-use-daily-and-what-i-still-double-check-fdbb2a02664c?source=rss-cb7a2de9f0fc------2)
